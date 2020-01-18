@@ -1,11 +1,11 @@
 ## hello in color!
 
 ### App Description
-`TODO://` Demo iOS app to change text and background color. 
+Demo iOS app to change text and background color. 
 
 ### App Walk-though
 
-<img src="https://imgur.com/8oULwlg" width=200><br>
+<img src="https://i.imgur.com/8oULwlg.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Manu!

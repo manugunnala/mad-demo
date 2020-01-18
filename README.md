@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="https://drive.google.com/file/d/1qB2IBAPXWVMHUzoQfhqvXnzfTVGaje-C/view?usp=sharing" width=200><br>
+<img src="https://imgur.com/8oULwlg" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Manu!
